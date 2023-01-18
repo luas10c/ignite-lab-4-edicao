@@ -1,0 +1,12 @@
+node_modules
+
+dist
+
+coverage
+
+.vscode
+
+.env.development
+.env.production
+.env.testing
+.env.staging
